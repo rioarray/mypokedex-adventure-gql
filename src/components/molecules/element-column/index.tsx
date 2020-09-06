@@ -1,0 +1,1 @@
+export { ElementColumn } from './component';

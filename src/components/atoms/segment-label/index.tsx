@@ -1,0 +1,1 @@
+export { SegmentLabel } from './component';

@@ -1,0 +1,1 @@
+export { TagLabel } from './component';
