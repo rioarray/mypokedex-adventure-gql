@@ -1,1 +1,1 @@
-export { ElementColumn } from './element-column/component';
+export { DataGridColumnInformation } from './statistic-information';

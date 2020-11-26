@@ -1,0 +1,1 @@
+export { CardPokemonInformation } from './component';

@@ -1,0 +1,1 @@
+export { DataGridColumnInformation } from './component';
